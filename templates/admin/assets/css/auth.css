@@ -1,0 +1,14 @@
+.error {
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
+
+.profile {
+    flex-grow: 1;
+    text-align: right;
+}
+
+.navbar-nav {
+    flex-grow: 1;
+}

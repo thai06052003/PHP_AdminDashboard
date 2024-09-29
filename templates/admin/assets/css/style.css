@@ -1,0 +1,19 @@
+.gallery-item {
+    margin-bottom: 10px;
+}
+
+.team-wrapper .team-item,
+.partner-wrapper .partner-item,
+.skill-wrapper .skill-item,
+.slide-wrapper .slide-item {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #c9c9c9;
+}
+
+.nav-sidebar .nav-link>.right, .nav-sidebar .nav-link>p>.right {
+    right: 1rem !important;
+}
+
+.container-fluid {
+    padding-bottom: 16px;
+}
